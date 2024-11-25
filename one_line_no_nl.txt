@@ -1,0 +1,4 @@
+Hello World!
+This
+Is
+The Get_next_line
